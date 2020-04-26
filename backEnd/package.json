@@ -1,0 +1,25 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-route": "^3.2.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "koa-websocket": "^6.0.0",
+    "utf-8-validate": "^5.0.2"
+  },
+  "devDependencies": {
+    "koa": "^2.11.0"
+  }
+}
