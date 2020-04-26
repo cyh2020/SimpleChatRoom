@@ -1,0 +1,10 @@
+.App>.bottomBox{
+  padding: 2vh 10vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.App>.bottomBox>.ant-input{
+  margin-right: 8vw;
+}

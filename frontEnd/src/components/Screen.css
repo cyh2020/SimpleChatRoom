@@ -1,0 +1,13 @@
+.Screen{
+    width:90vw;
+    height: 80vh;
+    border-radius: 5vh;
+    border: 1px solid rgb(202, 202, 202);
+    box-shadow: inset 0.5px 0.5px 1px rgba(0, 0, 0, 0.493);
+    margin:5vh auto;
+    overflow-y: scroll;
+}
+
+.Screen::-webkit-scrollbar {
+    display: none;
+}
